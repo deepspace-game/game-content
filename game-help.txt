@@ -1,9 +1,13 @@
+<margin=5em>
+<align="left">
 <size=30>Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!</size>
 <br><br>
 <u>Quick Start Guide</u>
 
 More content to come...
-
+<indent=15%>
 - Something here
 - something else here...
-
+</indent>
+</align>
+</margin>

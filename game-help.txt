@@ -24,7 +24,7 @@ Beware the Danger Zone! This is a no limits PVP Area with increased risks and re
 <size=24><b>How to Move and Interact</b></size>
 <br>
 <size=20><b>Hangar</b></size>
-<indent=15%>
+<indent=5%>
 <b>- W-A-S-D</b> to move
 <b>- Shift</b> to run
 <b>- Space</b> to jump
@@ -37,14 +37,14 @@ To Launch from The Hangar, run up to the ship you would like as your lead ship a
 </indent>
 <br>
 <size=18><b>Terminal Controls</b></size>
-<indent=15%>
+<indent=5%>
 <b>- W-A-S-D</b> to select ships in the control panel
 <b>- Enter</b> to confirm the ship selection and close the terminal
 <b>- Backspace</b> - Clear ship selections
 </indent>
 <br>
 <size=20><b>Exploration</b></size>
-<indent=15%>
+<indent=5%>
 <b>- W-A-S-D</b> to move
 <b>- Q / E</b> to Roll Left/Right
 <b>- Space / Left Ctrl</b> to Strafe up/down
@@ -68,7 +68,7 @@ To Launch from The Hangar, run up to the ship you would like as your lead ship a
 <b>Attacking</b> - Select the type of attack to use and click the target you would like to attack. There are 2 types of standard attack, a straight shot and a lobbed/arch shot. Each of these exists for both standard and special attack.
 Special abilities - Each ship type has 2 special abilities that can be used in Combat. See Ships for more details.
 <i>Note: The tanks shield wall currently does not have a display element or icon showing where it will be placed. Simply click the tile you wish to place the wall and it will appear.</i>
-<indent=15%>
+<indent=5%>
 <b>- W-A-S-D</b> - Pan camera
 <b>- Q / E</b> - Rotate camera left/right
 <b>- Space</b> - Focus to current turn unit

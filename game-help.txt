@@ -1,17 +1,15 @@
 <align="center">
 <size=30>
 Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!
-<br>
 <u>Quick Start Guide</u>
 </size>
 </align>
 <align="left">
-<br>
 <size=20><b>Important Things to Know</b></size>
 <size=14>
 <b>Cargo Stabilization Matter (CSM, formerly known as fuel)</b> is needed when transporting cargo. If you have any resources, you will slowly lose CSM over time. CSM regenerates automatically when no resources care being carried. You can refill your CSM to 100% by interacting with planets, once per planet per day. When you run out of CSM, you will start to drop / lose resources. CSM can be found in Lost Cargo and Ship Wreckage. CSM can also be purchased in the Store for a small amount of DPS (F1 in Exploration)
 <br>
-Health is per ship and can be lost from taking damage or dying in combat. Ships heal while playing the game at a rate of 25% per hour. Visiting a planet will repair your ships to 100% and you can do this once per planet per day.  Ships cannot leave combat with more health than you went in - ie. you cannot use combat as a way to heal ships as this would be too exploitable at this time. Small repair kits may be found in Lost Cargo and Ship Wreckage. Repair kits can be purchased in the DEEPSPACE Store for a small amount of DPS (F1 in Exploration)
+<b>Health</b> is per ship and can be lost from taking damage or dying in combat. Ships heal while playing the game at a rate of 25% per hour. Visiting a planet will repair your ships to 100% and you can do this once per planet per day.  Ships cannot leave combat with more health than you went in - ie. you cannot use combat as a way to heal ships as this would be too exploitable at this time. Small repair kits may be found in Lost Cargo and Ship Wreckage. Repair kits can be purchased in the DEEPSPACE Store for a small amount of DPS (F1 in Exploration)
 <br>
 If you lose combat, you will drop your resources in space, and respawn at The Hangar with 10% health on each ship.
 <br>

@@ -1,6 +1,6 @@
 <align="center"><size=30>Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!</size></align>
-<br>
 <align="center"><size=24><u>Quick Start Guide</u></size></align>
+
 <align="left"><size=20><b>Important Things to Know</b></size>
 <size=14>
 <b>Cargo Stabilization Matter (CSM, formerly known as fuel)</b> is needed when transporting cargo. If you have any resources, you will slowly lose CSM over time. CSM regenerates automatically when no resources care being carried. You can refill your CSM to 100% by interacting with planets, once per planet per day. When you run out of CSM, you will start to drop / lose resources. CSM can be found in Lost Cargo and Ship Wreckage. CSM can also be purchased in the Store for a small amount of DPS (F1 in Exploration)
@@ -21,7 +21,7 @@ Looking to climb the Leaderboard? Once in Exploration, press P to open the match
 
 Beware the Danger Zone! This is a no limits PVP Area with increased risks and rewards for those who dare enter!
 <br>
-<size=30><b>How to Move and Interact</b></size>
+<size=24><b>How to Move and Interact</b></size>
 <br>
 <size=20><b>Hangar</b></size>
 <indent=15%>

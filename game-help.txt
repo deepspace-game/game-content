@@ -1,8 +1,8 @@
 <align="center">
 <size=30>
-Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!
-<u>Quick Start Guide</u>
-</size>
+Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!</size>
+<br>
+<size=24><u>Quick Start Guide</u></size>
 </align>
 <align="left">
 <size=20><b>Important Things to Know</b></size>
@@ -15,13 +15,13 @@ If you lose combat, you will drop your resources in space, and respawn at The Ha
 <br>
 You may visit each planet once per day for full repair and CSM/Fuel refill.
 <br>
-Use the terminal to select your ships, then climb into the ship you'd like to use as your lead ship to launch into DEEPSPACE. You may return to the hangar at any time to change ships. Ships must be <a href="https://bridge.deepspace.game">bridged in</a> to be used.
+Use the terminal to select your ships, then climb into the ship you'd like to use as your lead ship to launch into DEEPSPACE. You may return to the hangar at any time to change ships. Ships must be bridged in to be used.
 <br>
-Traverse the universe searching for resources that can be used to upgrade your ships in the <a href="https://app.deepspace.game/shipyard/ships">Shipyard</a>. Resources can also be purchased at the <a href="https://app.deepspace.game/outpost/resource-swap">Galactic Exchange</a>
+Traverse the universe searching for resources that can be used to upgrade your ships in the Shipyard. Resources can also be purchased at the Galactic Exchange.
 
 Resources can be collected by mining asteroids, finding lost carg or ship wreckage. Beware of pirates throughout DEEPSPACE who seek to defeat you in combat and steal your resources.
 
-Looking to climb the <a href="https://leaderboard.deepspace.game/">Leaderboard</a>? Once in Exploration, press P to open the matchmaking window and test your metal against other players!
+Looking to climb the Leaderboard? Once in Exploration, press P to open the matchmaking window and test your metal against other players!
 
 Beware the Danger Zone! This is a no limits PVP Area with increased risks and rewards for those who dare enter!
 <br>
@@ -87,6 +87,6 @@ Click Return to Exploration to return to exploration when you are ready.
 <size=18><b>Combat Death</b></size>
 If you are defeated in combat, all resources you were carrying will be dropped. You will respawn outside of The Hangar with all ships at 10% health. Resources you were carrying will be marked on your map as <b>Cargo</b> and can be picked up to be recovered.
 
-For additional information refer to the <a href="https://docs.deepspace.game/deepspace-dps/v/deepspace-game">Game Docs</a>
+For additional information refer to the Game docs at https://docs.deepspace.game
 </size>
 </align>

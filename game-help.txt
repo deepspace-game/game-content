@@ -1,20 +1,94 @@
-<align="left">
-<size=30>Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!</size>
-<br><br>
+<align="center">
+<size=30>
+Welcome to <b><color=#c20ebc>DEEPSPACE</color></b>!
+<br>
 <u>Quick Start Guide</u>
-test2
-More content to come...
-<indent=15%>
-- Something here
-- something else here...
-</indent>
+</size>
 </align>
+<align="left">
+<br>
+<size=20><b>Important Things to Know</b></size>
+<size=14>
+<b>Cargo Stabilization Matter (CSM, formerly known as fuel)</b> is needed when transporting cargo. If you have any resources, you will slowly lose CSM over time. CSM regenerates automatically when no resources care being carried. You can refill your CSM to 100% by interacting with planets, once per planet per day. When you run out of CSM, you will start to drop / lose resources. CSM can be found in Lost Cargo and Ship Wreckage. CSM can also be purchased in the Store for a small amount of DPS (F1 in Exploration)
+<br>
+Health is per ship and can be lost from taking damage or dying in combat. Ships heal while playing the game at a rate of 25% per hour. Visiting a planet will repair your ships to 100% and you can do this once per planet per day.  Ships cannot leave combat with more health than you went in - ie. you cannot use combat as a way to heal ships as this would be too exploitable at this time. Small repair kits may be found in Lost Cargo and Ship Wreckage. Repair kits can be purchased in the DEEPSPACE Store for a small amount of DPS (F1 in Exploration)
+<br>
+If you lose combat, you will drop your resources in space, and respawn at The Hangar with 10% health on each ship.
+<br>
+You may visit each planet once per day for full repair and CSM/Fuel refill.
+<br>
+Use the terminal to select your ships, then climb into the ship you'd like to use as your lead ship to launch into DEEPSPACE. You may return to the hangar at any time to change ships. Ships must be <a href="https://bridge.deepspace.game">bridged in</a> to be used.
+<br>
+Traverse the universe searching for resources that can be used to upgrade your ships in the <a href="https://app.deepspace.game/shipyard/ships">Shipyard</a>. Resources can also be purchased at the <a href="https://app.deepspace.game/outpost/resource-swap">Galactic Exchange</a>
 
-Text outside of align tag
+Resources can be collected by mining asteroids, finding lost carg or ship wreckage. Beware of pirates throughout DEEPSPACE who seek to defeat you in combat and steal your resources.
 
-more Text
+Looking to climb the <a href="https://leaderboard.deepspace.game/">Leaderboard</a>? Once in Exploration, press P to open the matchmaking window and test your metal against other players!
 
+Beware the Danger Zone! This is a no limits PVP Area with increased risks and rewards for those who dare enter!
+<br>
+<size=30><b>How to Move and Interact</b></size>
+<br>
+<size=20><b>Hangar</b></size>
+<indent=15%>
+<b>- W-A-S-D</b> to move
+<b>- Shift</b> to run
+<b>- Space</b> to jump
+<b>- Left Mouse Click</b> to interact with the terminal or enter a ship to launch (the ship clicked will be your lead ship)
+<b>- Alt-F4</b> to exit the game from the Hangar
 
-more text still
+Use the terminal to select your ships (Terminal UI planned for improvements soon).  You cannot really select the same ship more than once, that will be corrected in the UI soon.
 
-some down here
+To Launch from The Hangar, run up to the ship you would like as your lead ship and click it to enter the ship and launch into Exploration. Remember the lead ship has the greatest impact on movement speed within Exploration.
+</indent>
+<br>
+<size=18><b>Terminal Controls</b></size>
+<indent=15%>
+<b>- W-A-S-D</b> to select ships in the control panel
+<b>- Enter</b> to confirm the ship selection and close the terminal
+<b>- Backspace</b> - Clear ship selections
+</indent>
+<br>
+<size=20><b>Exploration</b></size>
+<indent=15%>
+<b>- W-A-S-D</b> to move
+<b>- Q / E</b> to Roll Left/Right
+<b>- Space / Left Ctrl</b> to Strafe up/down
+<b>- Left Shift</b> to Boosted acceleration
+<b>- Enter/Return</b> to Activate Chat
+<b>- Escape</b> while in chat de-activates chat
+<b>- Esc</b> opens the Journal, there are multiple tabs at the top. Tabs also have their own hotkey to open directly to that page
+<b>- L</b> to Locations page in your journal
+<b>- P</b> to PVP Menu
+<b>- I</b> to Fleet details
+<b>- R</b> to use your Resource Radar to locate a guaranteed minable asteroid (may not be the closest minable)
+<b>- F1</b> to open the DEEPSPACE Store (subject to change)
+<b>- Left Click / Hold</b> to Interact with what's in front of you.
+<b>- Right</b> click to Pan camera
+</indent>
+<br>
+<size=20><b>Combat</b></size>
+<b>Ship placement</b> - Place your ships to start. You cannot place ships too close to an enemy player, once your first ship is placed, all other ships must be placed nearby.
+<b>Timer</b> - Each turn takes ~20 seconds. A timer at the top of the screen tells you how much time you have to take your turn.
+<b>Movement</b> - Hexes you can move to will light up and display the amount of energy needed to move to said hex. Simply point and click to move to that hex.
+<b>Attacking</b> - Select the type of attack to use and click the target you would like to attack. There are 2 types of standard attack, a straight shot and a lobbed/arch shot. Each of these exists for both standard and special attack.
+Special abilities - Each ship type has 2 special abilities that can be used in Combat. See Ships for more details.
+<i>Note: The tanks shield wall currently does not have a display element or icon showing where it will be placed. Simply click the tile you wish to place the wall and it will appear.</i>
+<indent=15%>
+<b>- W-A-S-D</b> - Pan camera
+<b>- Q / E</b> - Rotate camera left/right
+<b>- Space</b> - Focus to current turn unit
+<b>- Tab</b> - Display scoreboard
+<b>- 1-7</b> - Quick action keys
+<b>- F12</b> - End turn
+</indent>
+<size=18><b>Combat Victory Screen</b></size>
+The winner will be displayed on the right side.
+Click Return to Exploration to return to exploration when you are ready.
+<br>
+<size=18><b>Combat Death</b></size>
+If you are defeated in combat, all resources you were carrying will be dropped. You will respawn outside of The Hangar with all ships at 10% health. Resources you were carrying will be marked on your map as <b>Cargo</b> and can be picked up to be recovered.
+
+For additional information refer to the <a href="https://docs.deepspace.game/deepspace-dps/v/deepspace-game">Game Docs</a>
+</size>
+</align>
